@@ -18,4 +18,3 @@ data =[5,4,7,3,3,2,1,6,5]
 rst = sortir(data)
 print(rst)
 print("\n")
-print(removeDuplicate(rst))
